@@ -1,34 +1,9 @@
-% '_EpiSignalDetection_' package
-European Centre for Disease Prevention and Control (ECDC)
-
-
-# Description
-The 'EpiSignalDetection' package allows the user to explore time series for signal detection. 
-It is specifically designed to detect possible outbreaks using infectious disease surveillance data 
-at the European Union / European Economic Area or country level.
-
-The package includes:
-
-* __Signal Detection tool (Fig.1)__ an interactive 'shiny' application 
-in which the user can import external data and perform basic signal detection analyses;
-* __An automated report (Fig.2)__ in HTML format, presenting the results 
-of the time series analysis in tables and graphs. This report can also be 
-stratified by population characteristics (see 'Population' variable).
-
-<br>
-<br>
-
-__Fig.1 Signal detection tool for monitoring infectious diseases in TESSy__
-![](vignettes/img/app_full_screenshot20181022.png "Fig.1 Signal detection tool for monitoring infectious diseases in TESSy")
-
-<br>
-<br>
-<br>
-
-__Fig.2 Report of alarms__
-![](vignettes/img/report_screenshot_20181026.png "Fig.2 Report of alarms")
-
-...
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s646_CSbFtqE0881ZnYPq5jGtRaOoTC3icn1vgmZwFtOk_logo_77.jpg)
 
 
 
+# tsSignalDetection: Effective Signal Detection in Time Series Data
+
+#### Use app online: __[www.shinyappstore.com/a/tsSignalDetection](https://shinyappstore.com/a/tsSignalDetection)__
+
+tsSignalDetection is a robust application built upon the foundation of the EpiSignalDetection package, offering distinctive features designed for effective signal detection in time series data. Time series analysis in statistics involves the examination of data points ordered chronologically to identify patterns or trends over time. This application, specifically tailored for detecting potential outbreaks, targets infectious disease surveillance data at both the European Union / European Economic Area and country levels. Developed through a collaboration between the European Centre for Disease Prevention and Control and Epiconcept, tsSignalDetection serves as a dedicated signal detection tool. Users can import external data and conduct basic signal detection analyses, contributing to the overarching capabilities of the EpiSignalDetection package. EpiSignalDetection also introduces an automated report tool, generating results in HTML format and presenting them in tables and graphs.
